@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "C:\\Users\\33754\\.virtualenvs\\FlaskRestful-Yh8DFy7r",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true
+        
+    },
+    "python.formatting.provider": "yapf"
+}
